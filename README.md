@@ -38,7 +38,7 @@ project-folder/ │ ├── Resources/ │ ├── Background.png │ ├─
 
 ### 1. Clone the Repository
 
-git clone https://github.com/ChAtulKumarPrusty/Ping-Pong-Game.git
+git clone https://github.com/SurajKumarpandey001/Ping-Pong-Game
 cd hand-gesture-ping-pong
 
 2. Install Dependencies
@@ -59,7 +59,7 @@ For best performance, ensure your camera is facing you with good lighting.
 Adjust your camera resolution or hand detection confidence if needed.
 
 👨‍💻 Author
-Ch Atul Kumar Prusty
+Suraj Kumar
 
 
 ---
